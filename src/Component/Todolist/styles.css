@@ -1,0 +1,18 @@
+input {
+  padding: 4px;
+  margin-right: 10px;
+}
+.todo-items {
+  list-style: none;
+}
+.item {
+  margin: 12px 0;
+}
+.del-btn {
+  border: none;
+  border-radius: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-left: 20px;
+  color: white;
+}
